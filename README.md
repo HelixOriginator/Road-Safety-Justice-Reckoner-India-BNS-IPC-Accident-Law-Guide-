@@ -1,0 +1,2 @@
+# Road-Safety-Justice-Reckoner-India-BNS-IPC-Accident-Law-Guide-
+A comprehensive, citizen-focused guide to Indian road safety. Covers driving rules, responsibilities on public roads, BNS &amp; IPC offences, legal consequences, accident response steps, hospital admission rights, doctor duties, responsibilities after death, FIR &amp; compensation guidance, Good Samaritan protection, and road rage law reform.
