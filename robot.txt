@@ -1,0 +1,36 @@
+# robots.txt for Road Safety & Justice Reckoner - India
+# Website: https://helixoriginator.github.io/road-safety-justice-reckoner-india/
+
+# Allow all search engines to crawl everything
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://helixoriginator.github.io/road-safety-justice-reckoner-india/sitemap.xml
+
+# Crawl-delay (optional - prevents server overload)
+# Crawl-delay: 1
+
+# Block specific bots if needed (currently none blocked)
+# User-agent: BadBot
+# Disallow: /
+
+# Allow Google Image Bot
+User-agent: Googlebot-Image
+Allow: /
+
+# Allow Google Mobile Bot
+User-agent: Googlebot-Mobile
+Allow: /
+
+# Allow Bing Bot
+User-agent: Bingbot
+Allow: /
+
+# Priority pages for crawling (via sitemap)
+# Emergency section: /#emergency
+# Laws section: /#laws
+# Hospital rules: /#hospital
+# Death protocol: /#death
+# Good Samaritan: /#goodsamaritan
+# Road rage: /#roadrage
